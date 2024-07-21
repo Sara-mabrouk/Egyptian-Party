@@ -20,7 +20,7 @@ a{
 }
 .home {
     height: 100vh;
-    background-image: linear-gradient(rgba(214, 46, 51, 0.6), rgba(214, 46, 51, 0.6)), url(/image/events-heavenly-header.jpg);
+    background-image: linear-gradient(rgba(214, 46, 51, 0.6), rgba(214, 46, 51, 0.6)), url(../image/events-heavenly-header.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -101,7 +101,7 @@ a{
 
 
 #Details {
-    background-image: linear-gradient(rgba(214, 46, 51, 0.6), rgba(214, 46, 51, 0.6)), url(/image/invitation-2508607__340.jpg);
+    background-image: linear-gradient(rgba(214, 46, 51, 0.6), rgba(214, 46, 51, 0.6)), url(../image/invitation-2508607__340.jpg);
     background-size: cover;
     background-position: center;
     color: #ffffff;
